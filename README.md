@@ -7,6 +7,7 @@ This project analyzes **OLA ride booking data** using **Power BI**. The goal is 
 ## 📂 Project Structure  
 - **OLA Project.pbix** → Power BI dashboard file  
 - **Dashboard's Screenshots/** → Contains screenshots of all dashboard pages  
+- **OLA's Dataset/** → Contains data  
 
 ---
 
@@ -41,7 +42,7 @@ This project analyzes **OLA ride booking data** using **Power BI**. The goal is 
 
 ## 🛠️ Tools Used  
 - **Power BI** → Data visualization & dashboarding  
-- **Excel/CSV** (source) → Dataset preparation  
+- **Excel/CSV** Ola dataset   
 
 ---
 
@@ -68,6 +69,5 @@ This project helped me strengthen:
 ---
 
 ## 🔗 Connect With Me  
-👤 **Syed Ahmed Ali Shah**  
-🌐 [GitHub](https://github.com/Shahjee10)  
+👤 **Syed Ahmed Ali Shah**    
 💼 [LinkedIn](https://www.linkedin.com/in/syed-ahmed-ali-shah-101168307/)  
